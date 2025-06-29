@@ -72,7 +72,8 @@ These define **how the system performs**.
 
 **Use Case Diagrams** provide a visual representation of the system's functionalities and how users (actors) interact with them. They help stakeholders understand what the system will do without diving into technical details.
 
-![Use Case Diagram](./alx-booking-uc.png)
+![Use Case Diagram](./diagrams/alx-booking-uc.png)
+
 
 > 📌 Diagram includes:
 > - **Actors**: Guest, Host, Admin
